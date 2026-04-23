@@ -157,3 +157,8 @@ Sinta-se à vontade para:
 ## 📄 Licença
 
 Este projeto pode ser utilizado livremente para fins de estudo e desenvolvimento.
+
+Fotos do Projeto:
+
+<img width="380" height="526" alt="image" src="https://github.com/user-attachments/assets/ed31ba85-06a2-4874-b972-78c5ad1c4ba3" />
+
